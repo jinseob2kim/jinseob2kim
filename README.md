@@ -2,7 +2,7 @@
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinseob2kim&count_bg=%2379C83D&title_bg=%23555555&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ![GitHub last commit](https://img.shields.io/github/last-commit/jinseob2kim/jinseob2kim)
-<br>[![Junyeong Park's github stats](https://github-readme-stats.vercel.app/api?username=hallymer&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+<br>[![Jinseob Kim's github stats](https://github-readme-stats.vercel.app/api?username=jinseob2kim&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 </div>
 
 ## 👋 Hi, I'm Jinseob Kim
